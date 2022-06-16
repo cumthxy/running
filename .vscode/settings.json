@@ -2,5 +2,10 @@
     "python.formatting.provider": "black",
     "cSpell.words": [
         "isort"
-    ]
+    ],
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#13341B",
+        "titleBar.activeBackground": "#1B4926",
+        "titleBar.activeForeground": "#F7FCF8"
+    }
 }
